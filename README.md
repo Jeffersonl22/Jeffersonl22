@@ -3,6 +3,15 @@
 <!--
 **Jeffersonl22/Jeffersonl22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### About Me 🚀
+
+<hr />
+I'm Jefferson, I love how we can use tecnology to solve our daily problens!
+<hr />
+
+
+💬 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
