@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jefferson</h1>
 <h3 align="center">I think that tecnology is the future and we are the future! 👨‍💻</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffersonl22&label=Profile%20views&color=0e75b6&style=flat" alt="jeffersonl22" /> </p>
 
