@@ -8,7 +8,7 @@
 
 - 📚 I'm studying at the **Federal Institute of Education, Science and Technology of the Northern Minas Gerais (IFNMG)**
 
-- 🌱 I’m currently learning **Phyton**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **java, c, web development, software engineering**
 
