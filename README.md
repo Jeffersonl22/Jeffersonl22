@@ -6,7 +6,7 @@
 
 - 💻 I'm getting my bachelor's degree in **Information Systems**
 
-- 📚 I'm studying at **Federal Institute of Education, Science and Technology of the Northern Minas Gerais (IFNMG)**
+- 📚 I'm studying at the **Federal Institute of Education, Science and Technology of the Northern Minas Gerais (IFNMG)**
 
 - 🌱 I’m currently learning **Phyton**
 
