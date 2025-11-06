@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffersonl22&label=Profile%20views&color=0e75b6&style=flat" alt="jeffersonl22" /> </p>
 
-- 💻 I'm getting my bachelor's degree in **Information Systems**
+- 💻 I hold a bachelor's degree in Information Systems.**
 
-- 📚 I'm studying at the **Federal Institute of Education, Science and Technology of the Northern Minas Gerais (IFNMG)**
+- 📚 I'm a Web Designer and IT teacher at the **Federal Institute of Education, Science and Technology of the Northern Minas Gerais (IFNMG)**
 
 - 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **java, c, web development, software engineering**
 
-- 📫 How to reach me **jsl1@aluno.ifnmg.edu.br**
+- 📫 How to reach me **jeffersonifnmg22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
