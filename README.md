@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffersonl22&label=Profile%20views&color=0e75b6&style=flat" alt="jeffersonl22" /> </p>
 
-- 💻 I hold a bachelor's degree in Information Systems.**
+- 💻 I hold a bachelor's degree in Information Systems
 
 - 📚 I'm a Web Designer and IT teacher at the **Federal Institute of Education, Science and Technology of the Northern Minas Gerais (IFNMG)**
 
